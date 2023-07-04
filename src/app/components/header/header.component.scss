@@ -1,0 +1,53 @@
+.header{
+  padding-top: 54px;
+  display: flex;
+  justify-content: space-around;
+}
+.logo{
+  display: flex;
+}
+.logo-dress{
+  padding-top: 5px;
+  height: 25px;
+  width: 18px;
+}
+.logo-title{
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
+  text-transform: uppercase;
+  margin-left: 15px;
+}
+.text-menu{
+  font-weight: 400;
+  font-size: 15px;
+  margin-right: 45px;
+  text-align: right;
+}
+.text-menu-a{
+  text-decoration: none;
+  color: black;
+}
+.line-menu{
+  display: flex;
+  margin: auto;
+  text-align: center;
+}
+.phone-number-container{
+  display: flex;
+}
+.phone-picture{
+  padding-right: 15px;
+  width: 15px;
+  height: 15px;
+  margin: auto
+}
+.cart{
+  position: relative;
+}
+.cart-picture{
+  color: black;
+  margin-right: 12px;
+  margin-top: 12px;
+}
+
